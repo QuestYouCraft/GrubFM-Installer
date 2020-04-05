@@ -1,4 +1,10 @@
 # GrubFM Installer
+## Content
+- [What's this?](#whats-this) 
+- [How-to](#how-to)
+    - [Use utility and preparing drive](#use-utility-and-preparing-drive)
+        - [System requirements](#system-requirements)
+    - [Booting GrubFM](#booting-grubfm)
 ## What's this?
 This is the repository of the program that installs the [file manager from a1ive](https://github.com/a1ive/grub2-filemanager), based on the boot loaders Grub4Dos and Grub2 and is suitable for running in BIOS and UEFI-like systems (including UEFI + Secure Boot), and also makes your portable disk multiboot (i.e. after installing on it can write files that are also capable of loading in BIOS-like systems, for example, several ISO images with different operating systems).
 ## How-to
@@ -13,6 +19,6 @@ This is the repository of the program that installs the [file manager from a1ive
 _Note: many manufacturers using <kbd>F2</kbd>/<kbd>Del</kbd> for enter to menu but in your case the key may be different._
 2. Set the __first__ priority for your device with GrubFM
 3. Save the changes using <kbd>F10</kbd> and confirm it
-4. Enter your image and method of boot it
-5. __Enjoy! 🙂__    
+4. Enter your image and method of boot it    
+__Enjoy! 🙂__    
 __[[Details of GrubFM]](https://github.com/QuestYouCraft/grubfm-installer)__
