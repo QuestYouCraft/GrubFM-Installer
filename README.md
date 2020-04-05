@@ -1,4 +1,5 @@
 # GrubFM Installer
+[Logo](https://github.com/QuestYouCraft/grubfm-installer/blob/master/logo_grubfm.ico?raw=true)
 ## Content
 - [What's this?](#whats-this) 
 - [How-to](#how-to)
