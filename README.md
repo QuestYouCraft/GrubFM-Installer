@@ -9,9 +9,10 @@ This is the repository of the program that installs the [file manager from a1ive
 #### System requirements
 - OS: Windows NT 6 (Vista) and higher
 ### Booting GrubFM
-1. Enter to BIOS/UEFI
+1. Enter to BIOS/UEFI   
 _Note: many manufacturers using <kbd>F2</kbd>/<kbd>Del</kbd> for enter to menu but in your case the key may be different._
 2. Set the __first__ priority for your device with GrubFM
 3. Save the changes using <kbd>F10</kbd> and confirm it
 4. Enter your image and method of boot it
-5. __Enjoy! 🙂__
+5. __Enjoy! 🙂__    
+__[[Details of GrubFM]](https://github.com/QuestYouCraft/grubfm-installer)__
