@@ -9,4 +9,8 @@ This is the repository of the program that installs the [file manager from a1ive
 1. Download and start utility
 2. Follow instructions of the program
 3. Copy your files on NTFS (no-name) primary
-#### GrubFM
+#### Booting GrubFM
+1. Enter to BIOS/UEFI
+_Note: many manufacturers using <kbd>F2</kbd>/<kbd>Del</kbd> for enter to menu but in your case the key may be different._
+2. Set the __first__ priority for your device with GrubFM
+3. Save the changes using <kbd>F10</kbd> and confirm it
