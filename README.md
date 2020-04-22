@@ -21,4 +21,4 @@ _Note: many manufacturers using <kbd>F2</kbd>/<kbd>Del</kbd> for enter to menu b
 3. Save the changes using <kbd>F10</kbd> and confirm it
 4. Enter your image and method of boot it    
 __Enjoy! 🙂__    
-__[[Details of GrubFM]](https://github.com/QuestYouCraft/grubfm-installer)__
+__[[Details of GrubFM]](https://github.com/a1ive/grub2-filemanager)__
