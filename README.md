@@ -1,15 +1,10 @@
 # GrubFM Installer
-## Content
-- [What's this?](#whats-this) 
-- [System requirements](#system-requirements)
-- [How-to](#how-to)
-    - [Use utility and preparing drive](#use-utility-and-preparing-drive)
-    - [Booting GrubFM](#booting-grubfm)
+![GrubFM Installer](https://i2.paste.pics/7017028d7f3aa51c9b28d50ee8b0a014.png)
 ## What's this?
 This is the repository of the program that installs the [file manager from a1ive](https://github.com/a1ive/grub2-filemanager), based on the boot loaders Grub4Dos and Grub2 and is suitable for running in BIOS and UEFI-like systems (including UEFI + Secure Boot), and also makes your portable disk multiboot (i.e. after installing on it can write files that are also capable of loading in BIOS-like systems, for example, several ISO images with different operating systems).
 ## System requirements
 - OS: Windows NT 6 (Vista) and higher
-- Third release (v1.2) and higher required Internet connection
+- Release v1.2 require Internet connection
 ## How-to
 ### Use utility and preparing drive
 1. Download and start utility
