@@ -1,4 +1,4 @@
 echo Created through GrubFM by QuestYouCraft
 map --mem /grubfm.iso (0xff)
 map --hook
-chainloader (0xff)
+chainloader (0xff) 
